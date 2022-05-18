@@ -1,0 +1,1 @@
+No linux o git já vem de forma nativa do sistema operacional.Entretanto, no windows e preciso baixar o git, pois o git não vem instalado. Também e possível utilizar o Linux como maquina virtual no windows, mas e preciso que seu windows seja "pro".

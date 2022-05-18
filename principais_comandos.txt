@@ -1,0 +1,8 @@
+Os comandos iniciais do git são:
+git init: este comando inicializa o git dentro do diretório que deseja ser monitorado.
+git add: adiciona o arquiva para ser monitorado.
+git commit -m: grava o arquivo e adiciona um cabeçario com a descrição do que foi feito.
+git branch: mostra as branchs existentes.
+git branch+nome: cria uma nova branch com nome desejado.
+git checkout+nome da branch desejada: muda as branchs sendo a branch master a principal.
+git chekuot -b +nome: cria e executa uma nova branch.
